@@ -42,15 +42,6 @@ A futuristic browser-based C++ development environment with neon themes and inte
    - Start coding in C++
    - Compile with Ctrl+Enter or the "Compile & Run" button
 
-## 🌈 Theme Preview
-
-| Theme          | Primary Color | Secondary Color |
-|----------------|---------------|-----------------|
-| Cyberpunk 2077 | ![#ff2a6d](https://via.placeholder.com/15/ff2a6d/000000?text=+) `#ff2a6d` | ![#05d9e8](https://via.placeholder.com/15/05d9e8/000000?text=+) `#05d9e8` |
-| Neon Dream     | ![#ff00aa](https://via.placeholder.com/15/ff00aa/000000?text=+) `#ff00aa` | ![#00ffcc](https://via.placeholder.com/15/00ffcc/000000?text=+) `#00ffcc` |
-| Matrix Reloaded| ![#00ff41](https://via.placeholder.com/15/00ff41/000000?text=+) `#00ff41` | ![#008f11](https://via.placeholder.com/15/008f11/000000?text=+) `#008f11` |
-
-![main cpp - Cyber C++ IDE - Google Chrome 29_01_1404 12_53_25 ق ظ (2)](https://github.com/user-attachments/assets/83e82180-cce4-47f2-a984-9a940b5bb996)
 
 ## 🤝 Contributing
 
